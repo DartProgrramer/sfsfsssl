@@ -96,7 +96,6 @@
         margin-top: 10px;
         padding-bottom: 30px;
         position: relative;
-        background-color: rgb(255, 255, 255);
         border-radius: 12px;
     }
     .link-btn{
@@ -130,6 +129,16 @@
         margin-left: 20px;
         margin-top: -10px;
         font-size: 12px;
+    }
+    .btn-2{
+        width: 90%;
+        height: 60px;
+        margin-left: 6.5%;
+        margin-top: 10px;
+        background-color: black;
+        border-radius: 10px;
+        color: white;
+        border: none;
     }
     .txt-block-2{
         display: flex;
