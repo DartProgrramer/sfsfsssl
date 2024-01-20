@@ -89,10 +89,9 @@
         height: auto;
         margin-top: 20px;
         padding-bottom: 20px;
-        box-shadow: 0 0 10px rgba(168, 168, 168, 0.5);
         position: relative;
         background-color: rgb(240, 240, 255);
-        border-radius: 20px;
+        border-radius: 15px;
     }
     .link-btn{
         width: 70px;
