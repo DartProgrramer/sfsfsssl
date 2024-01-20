@@ -168,6 +168,10 @@
         font-size: 20px;
         font-family: 'Helvetica', sans-serif;
     }
+    
+.btn-2-desc{
+    display: none;
+}
     #link{
         font-size: 20px;
         margin-right: 5px;
@@ -192,7 +196,7 @@ span{
     display: flex;
     margin-left: 10%;
     align-items: center;
-    margin-top: -30px;
+    margin-top: 0px;
 }
 .cir1, .cir2, .cir3{
     width: 30px;
@@ -270,6 +274,7 @@ span{
     width: 40%;
     height: auto;
     margin-top: 20px;
+    margin-left: 10px;
     padding-bottom: 40px;
     box-shadow: 0 0 10px rgba(168, 168, 168, 0.5);
     position: relative;
@@ -296,7 +301,7 @@ i{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-image: url(logo.jpg);
+    background-image: url(icon.jpg);
     background-size: cover;
     margin-left: 0px;
 }
@@ -333,5 +338,31 @@ i{
 #link{
     font-size: 20px;
     margin-right: 5px;
+}
+.cir-block{
+    display: flex;
+}
+.clm{
+    width: 60%;
+    height: auto;
+    margin-top: 20px;
+    padding-bottom: 40px;
+    box-shadow: 0 0 10px rgba(168, 168, 168, 0.5);
+    position: relative;
+    background-color: rgb(240, 240, 255);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.btn-2-desc{
+    width: 30%;
+    height: 60px;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+}
+.btn-2{
+    display: none;
 }
 }
