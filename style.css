@@ -6,7 +6,7 @@
     .title-1{
         width: 100%;
         color: rgb(41, 41, 41);
-    font-size: 35px;
+    font-size: 30px;
     font-style: normal;
     font-family: 'Helvetica', sans-serif;
     font-weight: 400;
@@ -65,7 +65,6 @@
         position: relative;
         top: 30px;
         text-align: left;
-        hyphens: auto;
         width: 90%;
     }
     .txt-block{
@@ -87,11 +86,11 @@
     .cl, .clm{
         width: 100%;
         height: auto;
-        margin-top: 20px;
-        padding-bottom: 20px;
+        margin-top: 15px;
+        padding-bottom: 30px;
         position: relative;
-        background-color: rgb(240, 240, 255);
-        border-radius: 15px;
+        background-color: rgb(241, 241, 255);
+        border-radius: 12px;
     }
     .link-btn{
         width: 70px;
@@ -115,6 +114,7 @@
         background-image: url(logo.jpg);
         background-size: cover;
         margin-left: 0px;
+        border: solid 1px rgb(74, 74, 216);
     }
     .txt-4{
         font-style: normal;
@@ -139,7 +139,7 @@
     .link{
         width: 200px;
         height: 55px;
-        font-weight: 100;
+        font-weight: 400;
         margin-top: 30px;
         margin-left: 20px;
         border: none;
