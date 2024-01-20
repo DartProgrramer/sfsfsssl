@@ -5,14 +5,14 @@
     
     .title-1{
         width: 100%;
-        color: rgb(41, 41, 41);
+        color: rgb(0, 0, 0);
+        text-align: justify;
+    text-align-last: justify;
+        text-align-last: left;
     font-size: 30px;
     font-style: normal;
     font-family: 'Helvetica', sans-serif;
-    font-weight: 400;
-    text-align: left;
-    hyphens: auto;    
-    line-height: 1.2;  
+    font-weight: 500;
     }
     .flex{
         margin-left: 6.5%;
@@ -70,7 +70,7 @@
     .txt-block{
         width: 85%;
         margin-left: 6.5%;
-        margin-top: 100px;
+        margin-top: 70px;
     }
     .logo{
         width: 20%;
